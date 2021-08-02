@@ -10,8 +10,6 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("askdjlk");
         System.out.println("askdjlk");
-
-
     }
 
 }
